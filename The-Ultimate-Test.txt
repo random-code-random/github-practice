@@ -6,3 +6,5 @@ Some changes from branch A
 SOme changes from branch B
 
 Some changes from branch C
+
+Now branch D. Seems like git is not convinient to learn fast, especially when the changes don't update immediately.
